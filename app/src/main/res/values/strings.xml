@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cart Detail</string>
+    <string name="todo">TODO</string>
+    <string name="txtsnp10"><t>Shampoo:</t>\n<t>NIOXIN 3-Part System 1 Cleanser Shampoo for Natural Hair with Light Thinning 300ml</t>\n\n<t>Price: RM45</t></string>
+    <string name="menu_snp12"><t>Conditioner:</t>\n <t>NIOXIN 3-Part System 1 Scalp Therapy Revitalizing Conditioner 1000ml</t>\n\n<t>Price: RM95</t></string>
+    <string name="menu_snpl16"><t>Hair Treatments:</t>\n<t>Kerastase Resistance Ciment Thermique (150ml) </t>\n\n<t>Price: RM60</t></string>
+</resources>
